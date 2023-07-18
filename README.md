@@ -5,7 +5,7 @@ Two csv files used as data source for analysis: Mouse_metadata.csv and Study_res
 
 Pymaceuticals_Analysis is the jupyter source file to run analysis
 
-for- loop codes were consulted from AskBCS Learning Assistant, Luke Snyder.
+for- loop codes were consulted with AskBCS Learning Assistant, Luke Snyder.
 
 URLs for coding references:
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html  <<<< code used to print out R-square and other fancy stuff for linear regression
