@@ -1,6 +1,7 @@
 # Mod5_visualization
 Module 5 Matplotlib_Pandas Visualization
 for- loop codes were consulted from AskBCS Learning Assistant, Luke Snyder.
+
 URLs for coding references:
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html  <<<< code used to print out R-square and other fancy stuff for linear regression
 
