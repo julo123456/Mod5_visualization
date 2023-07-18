@@ -1,5 +1,8 @@
 # Mod5_visualization
 Module 5 Matplotlib_Pandas Visualization
+Two csv files used as data source for analysis: Mouse_metadata.csv and Study_results.csv
+Pymaceuticals_Analysis is the jupyter source file to run analysis
+
 for- loop codes were consulted from AskBCS Learning Assistant, Luke Snyder.
 
 URLs for coding references:
